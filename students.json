@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Eliran",
+    "family_name": "Melihov",
+    "email": "eliran.melihov@e.braude.ac.il",
+    "courses": [
+      "Introduction to Cloud Computing",
+      "Introduction to AI",
+      "Introduction to Physics",
+      "Physics",
+      "Data mining",
+      "Compilation theory",
+      "WEB"
+    ],
+    "link": "https://www.linkedin.com/in/eliran-melihov/"
+  },
+  {
+    "name": "Miron",
+    "family_name": "Hanukaiev",
+    "email": "miron.hanukaiev@e.braude.ac.il",
+    "courses": [
+      "Introduction to Cloud Computing",
+      "Introduction to AI",
+      "Introduction to Physics",
+      "Physics",
+      "Data mining",
+      "Compilation theory",
+      "WEB",
+      "Sport"
+    ],
+    "link": "https://www.linkedin.com/in/mironha/"
+  }
+]
